@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AulaVirtualOverrideBase.Entities
 {
+    //sealed class SavingsAccount : Account. o sealed não permite que essa classe seja herdada por outras classes. A utilidade se encontra em regras de negócio.
     class SavingsAccount : Account
     {
         public double InterestRate { get; set; }
@@ -24,7 +25,7 @@ namespace AulaVirtualOverrideBase.Entities
         {
 
         }
-        public override void Withdraw(double amount)
+        public sealed override void Withdraw(double amount)
         {
             base.Withdraw(amount);
             Balance -= 2.0;
