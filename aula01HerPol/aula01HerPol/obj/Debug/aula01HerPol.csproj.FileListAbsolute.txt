@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\aula01HerPol\aula01HerPol\bin\Debug\aula01HerPol.exe.config
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\aula01HerPol\aula01HerPol\bin\Debug\aula01HerPol.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\aula01HerPol\aula01HerPol\bin\Debug\aula01HerPol.pdb
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\aula01HerPol\aula01HerPol\obj\Debug\aula01HerPol.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\aula01HerPol\aula01HerPol\obj\Debug\aula01HerPol.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\aula01HerPol\aula01HerPol\obj\Debug\aula01HerPol.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\aula01HerPol\aula01HerPol\obj\Debug\aula01HerPol.pdb
