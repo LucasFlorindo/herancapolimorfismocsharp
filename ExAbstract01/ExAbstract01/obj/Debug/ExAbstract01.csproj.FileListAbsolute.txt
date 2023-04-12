@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExAbstract01\ExAbstract01\bin\Debug\ExAbstract01.exe.config
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExAbstract01\ExAbstract01\bin\Debug\ExAbstract01.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExAbstract01\ExAbstract01\bin\Debug\ExAbstract01.pdb
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExAbstract01\ExAbstract01\obj\Debug\ExAbstract01.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExAbstract01\ExAbstract01\obj\Debug\ExAbstract01.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExAbstract01\ExAbstract01\obj\Debug\ExAbstract01.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExAbstract01\ExAbstract01\obj\Debug\ExAbstract01.pdb
