@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExPolimorfismo02\ExPolimorfismo02\bin\Debug\ExPolimorfismo02.exe.config
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExPolimorfismo02\ExPolimorfismo02\bin\Debug\ExPolimorfismo02.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExPolimorfismo02\ExPolimorfismo02\bin\Debug\ExPolimorfismo02.pdb
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExPolimorfismo02\ExPolimorfismo02\obj\Debug\ExPolimorfismo02.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExPolimorfismo02\ExPolimorfismo02\obj\Debug\ExPolimorfismo02.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExPolimorfismo02\ExPolimorfismo02\obj\Debug\ExPolimorfismo02.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExPolimorfismo02\ExPolimorfismo02\obj\Debug\ExPolimorfismo02.pdb
