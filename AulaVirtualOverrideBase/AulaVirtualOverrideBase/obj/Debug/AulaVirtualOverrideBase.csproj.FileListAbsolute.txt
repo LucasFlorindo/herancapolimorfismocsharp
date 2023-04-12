@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaVirtualOverrideBase\AulaVirtualOverrideBase\bin\Debug\AulaVirtualOverrideBase.exe.config
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaVirtualOverrideBase\AulaVirtualOverrideBase\bin\Debug\AulaVirtualOverrideBase.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaVirtualOverrideBase\AulaVirtualOverrideBase\bin\Debug\AulaVirtualOverrideBase.pdb
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaVirtualOverrideBase\AulaVirtualOverrideBase\obj\Debug\AulaVirtualOverrideBase.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaVirtualOverrideBase\AulaVirtualOverrideBase\obj\Debug\AulaVirtualOverrideBase.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaVirtualOverrideBase\AulaVirtualOverrideBase\obj\Debug\AulaVirtualOverrideBase.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaVirtualOverrideBase\AulaVirtualOverrideBase\obj\Debug\AulaVirtualOverrideBase.pdb
