@@ -1,0 +1,6 @@
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaFinally\AulaFinally\bin\Debug\AulaFinally.exe.config
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaFinally\AulaFinally\bin\Debug\AulaFinally.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaFinally\AulaFinally\bin\Debug\AulaFinally.pdb
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaFinally\AulaFinally\obj\Debug\AulaFinally.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaFinally\AulaFinally\obj\Debug\AulaFinally.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaFinally\AulaFinally\obj\Debug\AulaFinally.pdb
