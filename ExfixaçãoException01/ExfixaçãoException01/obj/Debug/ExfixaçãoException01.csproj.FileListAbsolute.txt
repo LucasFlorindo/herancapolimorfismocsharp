@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoException01\ExfixaçãoException01\bin\Debug\ExfixaçãoException01.exe.config
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoException01\ExfixaçãoException01\bin\Debug\ExfixaçãoException01.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoException01\ExfixaçãoException01\bin\Debug\ExfixaçãoException01.pdb
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoException01\ExfixaçãoException01\obj\Debug\ExfixaçãoException01.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoException01\ExfixaçãoException01\obj\Debug\ExfixaçãoException01.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoException01\ExfixaçãoException01\obj\Debug\ExfixaçãoException01.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoException01\ExfixaçãoException01\obj\Debug\ExfixaçãoException01.pdb
