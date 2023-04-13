@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaTryCatch\AulaTryCatch\bin\Debug\AulaTryCatch.exe.config
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaTryCatch\AulaTryCatch\bin\Debug\AulaTryCatch.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaTryCatch\AulaTryCatch\bin\Debug\AulaTryCatch.pdb
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaTryCatch\AulaTryCatch\obj\Debug\AulaTryCatch.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaTryCatch\AulaTryCatch\obj\Debug\AulaTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaTryCatch\AulaTryCatch\obj\Debug\AulaTryCatch.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaTryCatch\AulaTryCatch\obj\Debug\AulaTryCatch.pdb
