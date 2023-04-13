@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using AulaExceçõesPersonalizadas.Entities.Exceptions;
+
 namespace AulaExceçõesPersonalizadas.Entities
 {
     class Reservation
@@ -17,11 +19,16 @@ namespace AulaExceçõesPersonalizadas.Entities
 
         }
 
-        public Reservation(int roomNumber, DateTime date, DateTime checkout)
+        public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException("Check-out date must be after Check-in date...");
+            }
+
             RoomNumber = roomNumber;
-            CheckIn = date;
-            CheckOut = checkout;
+            CheckIn = checkIn;
+            CheckOut = checkOut;
         }
 
         public int Duration()
@@ -43,21 +50,21 @@ namespace AulaExceçõesPersonalizadas.Entities
 
         }
 
-        public string UpdateDates(DateTime checkIn, DateTime checkOut)
+        public void UpdateDates(DateTime checkIn, DateTime checkOut)
         {
             DateTime now = DateTime.Now;
             if (checkIn < now || checkOut < now)
             {
-                return "Reservation dates for update must be future dates...";
+                throw new DomainException( "Reservation dates for update must be future dates...");
             }
             if (checkOut <= checkIn)
             {
-                return "Check-out date must be after Check-in date...";
+                throw new DomainException( "Check-out date must be after Check-in date...");
             }
 
             CheckIn = checkIn;
             CheckOut = checkOut;
-            return null;
+           
         }
     }
 }

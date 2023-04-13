@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 using AulaExceçõesPersonalizadas.Entities;
+using AulaExceçõesPersonalizadas.Entities.Exceptions;
 
 namespace AulaExceçõesPersonalizadas
 {
@@ -12,22 +13,18 @@ namespace AulaExceçõesPersonalizadas
     {
         static void Main(string[] args)
         {
-            Console.Write("Room Number: ");
-            int number = int.Parse(Console.ReadLine());
-
-            Console.Write("Check-in date (dd/MM/yyyy): ");
-            DateTime checkIn = DateTime.Parse(Console.ReadLine());
-
-            Console.Write("Check-out date (dd/MM/yyyy): ");
-            DateTime checkOut = DateTime.Parse(Console.ReadLine());
-
-            if (checkOut <= checkIn)
+            try
             {
-                Console.WriteLine("Error in reservation: Check-out must be after Check-in date...");
+                Console.Write("Room Number: ");
+                int number = int.Parse(Console.ReadLine());
 
-            }
-            else
-            {
+                Console.Write("Check-in date (dd/MM/yyyy): ");
+                DateTime checkIn = DateTime.Parse(Console.ReadLine());
+
+                Console.Write("Check-out date (dd/MM/yyyy): ");
+                DateTime checkOut = DateTime.Parse(Console.ReadLine());
+
+
                 Reservation reservation = new Reservation(number, checkIn, checkOut);
                 Console.WriteLine("Reservation: " + reservation);
 
@@ -40,19 +37,27 @@ namespace AulaExceçõesPersonalizadas
                 checkOut = DateTime.Parse(Console.ReadLine());
 
 
-                string error = reservation.UpdateDates(checkIn, checkOut);
-                
-                if (error != null)
-                {
-                    Console.WriteLine("Error in reservation: " + error);
+                reservation.UpdateDates(checkIn, checkOut);
 
-                }
-                else
-                {
-                    
-                    Console.WriteLine("Reservation: " + reservation);
-                }
+
+
+                Console.WriteLine("Reservation: " + reservation);
             }
+            catch (CannotUnloadAppDomainException e)
+            {
+                Console.WriteLine("Error in reservation: " + e.Message);
+            }
+            catch (FormatException e)
+            {
+                Console.WriteLine("Format error: " + e.Message);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Unexpected error: "+e.Message);
+            }
+
+
+
         }
     }
 }
