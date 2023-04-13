@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoHerançaePolimorfismo\ExfixaçãoHerançaePolimorfismo\bin\Debug\ExfixaçãoHerançaePolimorfismo.exe.config
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoHerançaePolimorfismo\ExfixaçãoHerançaePolimorfismo\bin\Debug\ExfixaçãoHerançaePolimorfismo.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoHerançaePolimorfismo\ExfixaçãoHerançaePolimorfismo\bin\Debug\ExfixaçãoHerançaePolimorfismo.pdb
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoHerançaePolimorfismo\ExfixaçãoHerançaePolimorfismo\obj\Debug\ExfixaçãoHerançaePolimorfismo.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoHerançaePolimorfismo\ExfixaçãoHerançaePolimorfismo\obj\Debug\ExfixaçãoHerançaePolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoHerançaePolimorfismo\ExfixaçãoHerançaePolimorfismo\obj\Debug\ExfixaçãoHerançaePolimorfismo.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\ExfixaçãoHerançaePolimorfismo\ExfixaçãoHerançaePolimorfismo\obj\Debug\ExfixaçãoHerançaePolimorfismo.pdb
