@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaExceçõesPersonalizadas\AulaExceçõesPersonalizadas\bin\Debug\AulaExceçõesPersonalizadas.exe.config
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaExceçõesPersonalizadas\AulaExceçõesPersonalizadas\bin\Debug\AulaExceçõesPersonalizadas.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaExceçõesPersonalizadas\AulaExceçõesPersonalizadas\bin\Debug\AulaExceçõesPersonalizadas.pdb
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaExceçõesPersonalizadas\AulaExceçõesPersonalizadas\obj\Debug\AulaExceçõesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaExceçõesPersonalizadas\AulaExceçõesPersonalizadas\obj\Debug\AulaExceçõesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaExceçõesPersonalizadas\AulaExceçõesPersonalizadas\obj\Debug\AulaExceçõesPersonalizadas.exe
+C:\Users\Lucas Rodrigues\temp\herança e polimorfismo\AulaExceçõesPersonalizadas\AulaExceçõesPersonalizadas\obj\Debug\AulaExceçõesPersonalizadas.pdb
